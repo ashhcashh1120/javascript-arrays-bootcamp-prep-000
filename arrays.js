@@ -29,4 +29,3 @@ var chocolateBars = ["snickers" , "hundredgrand"
  removeElementFromEndOfArray(chocolateBars){
    return array.slice(0, array.length - 1)
  }
- 
